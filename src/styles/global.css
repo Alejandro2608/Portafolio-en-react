@@ -7,6 +7,9 @@
     --font-semi-bold: 600;
     --font-bold: 700;
 }
+i{
+    color: white
+}
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -179,3 +182,4 @@ footer a:hover {
         padding: 2rem 1rem !important;
     }
 }
+

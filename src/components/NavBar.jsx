@@ -10,7 +10,7 @@ class NavBar extends React.Component{
                         <a className="navbar-brand" href="#"><img src={logo} className="logo"/></a>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                            <i className="icon ion-md-menu text-light"/>
+                            <i className="fas fa-bars"/>
                         </button>
             
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
